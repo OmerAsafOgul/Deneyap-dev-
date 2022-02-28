@@ -1,0 +1,2 @@
+# Deneyap-dev-
+süreli ödev 
