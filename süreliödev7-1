@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+
+    int sayi1,sayi2;
+    cout<<"1. Sayiyi Gir : ";
+    cin >> sayi1;
+    cout<<"2. Sayiyi Gir : ";
+    cin >> sayi2;
+    cout<<"Bolum : "<<sayi1/sayi2<<endl;
+    cout<<"Kalan : "<<sayi1%sayi2;
+    return 0;
+}
